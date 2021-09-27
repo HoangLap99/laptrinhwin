@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="cuahangcaycanh" Class="QLCHDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-BL0QFT1\SQLEXPRESS01;Initial Catalog=cuahangcaycanh;Integrated Security=True" SettingsObjectName="DataConnect.Properties.Settings" SettingsPropertyName="cuahangcaycanhConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.chamcong" Member="chamcongs">
+    <Type Name="chamcong">
+      <Column Name="manhanvien" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="luong1ngay" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="songaylam" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="nhanvien_chamcong" Member="nhanvien" ThisKey="manhanvien" OtherKey="manhanvien" Type="nhanvien" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.hoadon" Member="hoadons">
+    <Type Name="hoadon">
+      <Column Name="mahoadon" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ngaylap" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="nhanvienban" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="khachhang" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Association Name="hoadon_chitiethoadon" Member="chitiethoadons" ThisKey="mahoadon" OtherKey="hoadon" Type="chitiethoadon" />
+      <Association Name="khachhang_hoadon" Member="khachhang1" ThisKey="khachhang" OtherKey="makhachhang" Type="khachhang" IsForeignKey="true" />
+      <Association Name="nhanvien_hoadon" Member="nhanvien" ThisKey="nhanvienban" OtherKey="manhanvien" Type="nhanvien" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.chitiethoadon" Member="chitiethoadons">
+    <Type Name="chitiethoadon">
+      <Column Name="hoadon" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="sanpham" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="soluong" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="hoadon_chitiethoadon" Member="hoadon1" ThisKey="hoadon" OtherKey="mahoadon" Type="hoadon" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="sanpham_chitiethoadon" Member="sanpham1" ThisKey="sanpham" OtherKey="masanpham" Type="sanpham" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.khachhang" Member="khachhangs">
+    <Type Name="khachhang">
+      <Column Name="makhachhang" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="tenkhachhang" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ngaysinh" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="diachi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="gioitinh" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="sodienthoai" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Association Name="khachhang_hoadon" Member="hoadons" ThisKey="makhachhang" OtherKey="khachhang" Type="hoadon" />
+    </Type>
+  </Table>
+  <Table Name="dbo.loaisanpham" Member="loaisanphams">
+    <Type Name="loaisanpham">
+      <Column Name="maloaisanpham" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="tenloaisanpham" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="loaisanpham_sanpham" Member="sanphams" ThisKey="maloaisanpham" OtherKey="loaisanpham" Type="sanpham" />
+    </Type>
+  </Table>
+  <Table Name="dbo.nhanvien" Member="nhanviens">
+    <Type Name="nhanvien">
+      <Column Name="manhanvien" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="tennhanvien" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ngaysinh" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="gioitinh" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="diachi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="sodienthoai" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Association Name="nhanvien_chamcong" Member="chamcong" ThisKey="manhanvien" OtherKey="manhanvien" Type="chamcong" Cardinality="One" />
+      <Association Name="nhanvien_hoadon" Member="hoadons" ThisKey="manhanvien" OtherKey="nhanvienban" Type="hoadon" />
+      <Association Name="nhanvien_taikhoan" Member="taikhoans" ThisKey="manhanvien" OtherKey="manhanvien" Type="taikhoan" />
+    </Type>
+  </Table>
+  <Table Name="dbo.sanpham" Member="sanphams">
+    <Type Name="sanpham">
+      <Column Name="masanpham" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="tensanpham" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="giathanh" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="soluongcon" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="loaisanpham" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Association Name="sanpham_chitiethoadon" Member="chitiethoadons" ThisKey="masanpham" OtherKey="sanpham" Type="chitiethoadon" />
+      <Association Name="loaisanpham_sanpham" Member="loaisanpham1" ThisKey="loaisanpham" OtherKey="maloaisanpham" Type="loaisanpham" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.taikhoan" Member="taikhoans">
+    <Type Name="taikhoan">
+      <Column Name="mataikhoan" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="manhanvien" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="matkhau" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Association Name="nhanvien_taikhoan" Member="nhanvien" ThisKey="manhanvien" OtherKey="manhanvien" Type="nhanvien" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11.5, 10.875" name="QLCH">
+  <DataContextMoniker Name="/QLCHDataContext" />
+  <nestedChildShapes>
+    <classShape Id="c9fcff96-281e-47aa-81ef-25cc34e1cddf" absoluteBounds="3.5, 4, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/QLCHDataContext/chamcong" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7e5bb742-e549-41b6-9f4d-32a0130d1643" absoluteBounds="3.515, 4.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="38ec3158-3a97-48d0-80a7-ecf4a16d2994" absoluteBounds="9.25, 5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/QLCHDataContext/chitiethoadon" />
+      <nestedChildShapes>
+        <elementListCompartment Id="26698be0-0a19-45da-927f-2cd75060a3cc" absoluteBounds="9.265, 5.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b0e7fdb0-d36a-4299-ade6-23cba9e00a64" absoluteBounds="6.5, 5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/QLCHDataContext/hoadon" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4e6b396f-ec8c-469a-ae84-a41151736d91" absoluteBounds="6.515, 5.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cc222e1a-b3a6-41fc-90cc-52639dc52633" absoluteBounds="3.75, 0.75, 2, 1.9631982421875">
+      <DataClassMoniker Name="/QLCHDataContext/khachhang" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7d24166f-084d-400d-b873-61ef440cbac3" absoluteBounds="3.765, 1.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f58e2a37-b864-4703-85f4-6b2321e24868" absoluteBounds="3.75, 9, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/QLCHDataContext/loaisanpham" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6c3eb392-6ffe-4389-8d05-3963f4c5db3c" absoluteBounds="3.765, 9.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1d221074-1a0a-461d-9f3d-65e7c471b2c7" absoluteBounds="1, 8.875, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/QLCHDataContext/nhacungcap" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f6cca193-d2c9-48cb-898f-bae6d8cc9a80" absoluteBounds="1.0150000000000001, 9.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ec8066c5-60f7-4fb5-97c2-43c3165eedc0" absoluteBounds="0.75, 4.75, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/QLCHDataContext/nhanvien" />
+      <nestedChildShapes>
+        <elementListCompartment Id="323b4f25-27b4-4823-bbdf-9edc5290d069" absoluteBounds="0.765, 5.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a74d9647-b0d3-4845-851b-c627a4197187" absoluteBounds="6.5, 8.875, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/QLCHDataContext/sanpham" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d165e5f2-d6e4-46ee-8c2c-1df82a732e57" absoluteBounds="6.515, 9.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fce4f8a7-fbf6-48d7-aadd-7ade6bae713c" absoluteBounds="3.5, 6.125, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/QLCHDataContext/taikhoan" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c775ee18-8337-454b-a206-743eb7ddaf2b" absoluteBounds="3.515, 6.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(8.5 : 5.78929768880208); (9.25 : 5.78929768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLCHDataContext/hoadon/hoadon_chitiethoadon" />
+      <nodes>
+        <classShapeMoniker Id="b0e7fdb0-d36a-4299-ade6-23cba9e00a64" />
+        <classShapeMoniker Id="38ec3158-3a97-48d0-80a7-ecf4a16d2994" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.65625 : 2.7131982421875); (5.65625 : 5.75564697265625); (6.5 : 5.75564697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLCHDataContext/khachhang/khachhang_hoadon" />
+      <nodes>
+        <classShapeMoniker Id="cc222e1a-b3a6-41fc-90cc-52639dc52633" />
+        <classShapeMoniker Id="b0e7fdb0-d36a-4299-ade6-23cba9e00a64" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3 : 9.69314697265625); (3.75 : 9.69314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLCHDataContext/nhacungcap/nhacungcap_loaisanpham" />
+      <nodes>
+        <classShapeMoniker Id="1d221074-1a0a-461d-9f3d-65e7c471b2c7" />
+        <classShapeMoniker Id="f58e2a37-b864-4703-85f4-6b2321e24868" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 5.06814697265625); (3.5 : 5.06814697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLCHDataContext/nhanvien/nhanvien_chamcong" />
+      <nodes>
+        <classShapeMoniker Id="ec8066c5-60f7-4fb5-97c2-43c3165eedc0" />
+        <classShapeMoniker Id="c9fcff96-281e-47aa-81ef-25cc34e1cddf" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 5.97157348632813); (6.5 : 5.97157348632813)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLCHDataContext/nhanvien/nhanvien_hoadon" />
+      <nodes>
+        <classShapeMoniker Id="ec8066c5-60f7-4fb5-97c2-43c3165eedc0" />
+        <classShapeMoniker Id="b0e7fdb0-d36a-4299-ade6-23cba9e00a64" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 9.76044840494792); (10.25 : 9.76044840494792); (10.25 : 6.57859537760417)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLCHDataContext/sanpham/sanpham_chitiethoadon" />
+      <nodes>
+        <classShapeMoniker Id="a74d9647-b0d3-4845-851b-c627a4197187" />
+        <classShapeMoniker Id="38ec3158-3a97-48d0-80a7-ecf4a16d2994" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 9.69314697265625); (6.5 : 9.69314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLCHDataContext/loaisanpham/loaisanpham_sanpham" />
+      <nodes>
+        <classShapeMoniker Id="f58e2a37-b864-4703-85f4-6b2321e24868" />
+        <classShapeMoniker Id="a74d9647-b0d3-4845-851b-c627a4197187" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 6.41909912109375); (3.5 : 6.41909912109375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLCHDataContext/nhanvien/nhanvien_taikhoan" />
+      <nodes>
+        <classShapeMoniker Id="ec8066c5-60f7-4fb5-97c2-43c3165eedc0" />
+        <classShapeMoniker Id="fce4f8a7-fbf6-48d7-aadd-7ade6bae713c" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

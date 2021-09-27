@@ -1,0 +1,141 @@
+E:\lap trinh win\btl\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+E:\lap trinh win\btl\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+E:\lap trinh win\btl\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+E:\lap trinh win\btl\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csprojAssemblyReference.cache
+E:\lap trinh win\btl\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.dangNhap.resources
+E:\lap trinh win\btl\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+E:\lap trinh win\btl\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+E:\lap trinh win\btl\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+E:\lap trinh win\btl\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+E:\lap trinh win\btl\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+E:\lap trinh win\btl\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.trangChu.resources
+E:\lap trinh win\btl\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.quanLyTaiKhoan.resources
+E:\lap trinh win\btl\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.nhaCungCap.resources
+E:\lap trinh win\btl\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.hoaDon.resources
+E:\lap trinh win\btl\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.ChamCong.resources
+E:\lap trinh win\btl\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.danhMucSanPham.resources
+E:\lap trinh win\btl\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.quanLyKhachHang.resources
+E:\lap trinh win\btl\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.QuanLyNhanVien.resources
+E:\lap trinh win\btl\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.SuaDanhMuc.resources
+E:\lap trinh win\btl\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.SuaThongTinKhachHang.resources
+E:\lap trinh win\btl\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.SuaThongTinNhanVien.resources
+E:\lap trinh win\btl\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.ThemChamCong.resources
+D:\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+D:\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+D:\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+D:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csprojAssemblyReference.cache
+D:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.ChamCong.resources
+D:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.danhMucSanPham.resources
+D:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.hoaDon.resources
+D:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.nhaCungCap.resources
+D:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.quanLyKhachHang.resources
+D:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.QuanLyNhanVien.resources
+D:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.quanLyTaiKhoan.resources
+D:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.dangNhap.resources
+D:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+D:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.SuaDanhMuc.resources
+D:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.SuaThongTinKhachHang.resources
+D:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.SuaThongTinNhanVien.resources
+D:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.ThemChamCong.resources
+D:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.trangChu.resources
+D:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Xem_sản_phẩm.resources
+D:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+D:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+D:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+D:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+D:\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Suasanpham.resources
+D:\Download\Zalo_Download\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+D:\Download\Zalo_Download\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+D:\Download\Zalo_Download\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+D:\Download\Zalo_Download\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csprojAssemblyReference.cache
+D:\Download\Zalo_Download\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.ChamCong.resources
+D:\Download\Zalo_Download\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.danhMucSanPham.resources
+D:\Download\Zalo_Download\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.hoaDon.resources
+D:\Download\Zalo_Download\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.nhaCungCap.resources
+D:\Download\Zalo_Download\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.quanLyKhachHang.resources
+D:\Download\Zalo_Download\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.QuanLyNhanVien.resources
+D:\Download\Zalo_Download\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.quanLyTaiKhoan.resources
+D:\Download\Zalo_Download\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.dangNhap.resources
+D:\Download\Zalo_Download\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+D:\Download\Zalo_Download\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.SuaDanhMuc.resources
+D:\Download\Zalo_Download\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Suasanpham.resources
+D:\Download\Zalo_Download\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.SuaThongTinKhachHang.resources
+D:\Download\Zalo_Download\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.SuaThongTinNhanVien.resources
+D:\Download\Zalo_Download\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.ThemChamCong.resources
+D:\Download\Zalo_Download\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.trangChu.resources
+D:\Download\Zalo_Download\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Xem_sản_phẩm.resources
+D:\Download\Zalo_Download\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+D:\Download\Zalo_Download\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+D:\Download\Zalo_Download\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+D:\Download\Zalo_Download\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+E:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csprojAssemblyReference.cache
+E:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.ChamCong.resources
+E:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.danhMucSanPham.resources
+E:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.hoaDon.resources
+E:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.nhaCungCap.resources
+E:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.quanLyKhachHang.resources
+E:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.QuanLyNhanVien.resources
+E:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.quanLyTaiKhoan.resources
+E:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.dangNhap.resources
+E:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+E:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.SuaDanhMuc.resources
+E:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Suasanpham.resources
+E:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.SuaThongTinKhachHang.resources
+E:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.SuaThongTinNhanVien.resources
+E:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.ThemChamCong.resources
+E:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.trangChu.resources
+E:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Xem_sản_phẩm.resources
+E:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+E:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+E:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+E:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+E:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+E:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+E:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+E:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.inhoadon.resources
+C:\Users\Bobby\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csprojAssemblyReference.cache
+C:\Users\Bobby\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Danh_Mục_Sản_Phẩm.resources
+C:\Users\Bobby\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.hoaDon.resources
+C:\Users\Bobby\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.inhoadon.resources
+C:\Users\Bobby\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.nhaCungCap.resources
+C:\Users\Bobby\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.quanLyTaiKhoan.resources
+C:\Users\Bobby\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.dangNhap.resources
+C:\Users\Bobby\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+C:\Users\Bobby\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Suasanpham.resources
+C:\Users\Bobby\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Sửa_Danh_Mục.resources
+C:\Users\Bobby\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.trangChu.resources
+C:\Users\Bobby\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Xem_sản_phẩm.resources
+C:\Users\Bobby\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+C:\Users\Bobby\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+C:\Users\Bobby\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+C:\Users\Bobby\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+C:\Users\Bobby\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+C:\Users\Bobby\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+C:\Users\Bobby\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Quản_Lý_Khách_Hàng.resources
+C:\Users\Bobby\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Quản_Lý_Nhân_Viên.resources
+C:\Users\Bobby\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Sửa_Thông_Tin_Khách_Hàng.resources
+C:\Users\Bobby\OneDrive\Máy tính\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Sửa_Thông_Tin_Nhân_Viên.resources
+E:\lap trinh win\Nhom3_Hệ thống quản lý bán cây cảnh Anh Phúc\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+E:\lap trinh win\Nhom3_Hệ thống quản lý bán cây cảnh Anh Phúc\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+E:\lap trinh win\Nhom3_Hệ thống quản lý bán cây cảnh Anh Phúc\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+E:\lap trinh win\Nhom3_Hệ thống quản lý bán cây cảnh Anh Phúc\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csprojAssemblyReference.cache
+E:\lap trinh win\Nhom3_Hệ thống quản lý bán cây cảnh Anh Phúc\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Danh_Mục_Sản_Phẩm.resources
+E:\lap trinh win\Nhom3_Hệ thống quản lý bán cây cảnh Anh Phúc\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.hoaDon.resources
+E:\lap trinh win\Nhom3_Hệ thống quản lý bán cây cảnh Anh Phúc\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.inhoadon.resources
+E:\lap trinh win\Nhom3_Hệ thống quản lý bán cây cảnh Anh Phúc\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.nhaCungCap.resources
+E:\lap trinh win\Nhom3_Hệ thống quản lý bán cây cảnh Anh Phúc\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.quanLyTaiKhoan.resources
+E:\lap trinh win\Nhom3_Hệ thống quản lý bán cây cảnh Anh Phúc\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.dangNhap.resources
+E:\lap trinh win\Nhom3_Hệ thống quản lý bán cây cảnh Anh Phúc\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+E:\lap trinh win\Nhom3_Hệ thống quản lý bán cây cảnh Anh Phúc\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Quản_Lý_Khách_Hàng.resources
+E:\lap trinh win\Nhom3_Hệ thống quản lý bán cây cảnh Anh Phúc\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Quản_Lý_Nhân_Viên.resources
+E:\lap trinh win\Nhom3_Hệ thống quản lý bán cây cảnh Anh Phúc\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Suasanpham.resources
+E:\lap trinh win\Nhom3_Hệ thống quản lý bán cây cảnh Anh Phúc\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Sửa_Danh_Mục.resources
+E:\lap trinh win\Nhom3_Hệ thống quản lý bán cây cảnh Anh Phúc\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Sửa_Thông_Tin_Khách_Hàng.resources
+E:\lap trinh win\Nhom3_Hệ thống quản lý bán cây cảnh Anh Phúc\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Sửa_Thông_Tin_Nhân_Viên.resources
+E:\lap trinh win\Nhom3_Hệ thống quản lý bán cây cảnh Anh Phúc\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.trangChu.resources
+E:\lap trinh win\Nhom3_Hệ thống quản lý bán cây cảnh Anh Phúc\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Xem_sản_phẩm.resources
+E:\lap trinh win\Nhom3_Hệ thống quản lý bán cây cảnh Anh Phúc\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+E:\lap trinh win\Nhom3_Hệ thống quản lý bán cây cảnh Anh Phúc\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+E:\lap trinh win\Nhom3_Hệ thống quản lý bán cây cảnh Anh Phúc\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+E:\lap trinh win\Nhom3_Hệ thống quản lý bán cây cảnh Anh Phúc\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
